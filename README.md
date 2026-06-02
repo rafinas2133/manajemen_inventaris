@@ -29,7 +29,7 @@ Tujuan dari pengembangan aplikasi ini adalah:
 ## 📱 Tampilan Aplikasi
 
 <p align="center">
-  <img src="assets/images/login.png" width="220">
+  <img src="assets/images/Login.png" width="220">
   <img src="assets/images/Dashboard.png" width="220">
   <img src="assets/images/Barang.png" width="220">
 </p>
