@@ -28,22 +28,16 @@ Tujuan dari pengembangan aplikasi ini adalah:
 
 ## 📱 Tampilan Aplikasi
 
-### Login
-![Login](/login.png)
+<p align="center">
+  <img src="assets/images/login.png" width="220">
+  <img src="assets/images/Dashboard.png" width="220">
+  <img src="assets/images/Barang.png" width="220">
+</p>
 
-### Dashboard
-![Dashboard](assets/images/Dashboard.png)
-
-### Data Barang
-![Barang](assets/images/Barang.png)
-
-### Stok Barang
-![Stok](assets/images/Stok.png)
-
-### Laporan
-![Laporan](assets/images/Laporan.png)
-
-> Ganti gambar di atas dengan screenshot aplikasi yang sebenarnya.
+<p align="center">
+  <img src="assets/images/Stok.png" width="220">
+  <img src="assets/images/Laporan.png" width="220">
+</p>
 
 ---
 
