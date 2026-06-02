@@ -1,8 +1,3 @@
-Berikut adalah draf file `README.md` yang komprehensif, profesional, dan dirancang khusus untuk proyek Flutter **manajemen_inventaris**. File ini ditulis dalam Bahasa Indonesia yang formal dan terstruktur dengan baik.
-
----
-
-# README.md
 
 ```markdown
 # 📦 Aplikasi Manajemen Inventaris (manajemen_inventaris)
@@ -277,3 +272,5 @@ Proyek ini dilisensikan di bawah **Lisensi MIT**. Lihat file [LICENSE](LICENSE) 
 3. **Penjelasan Arsitektur**: Menjelaskan konsep MVVM secara terstruktur menggunakan diagram teks ASCII yang mudah dipahami.
 4. **Instruksi Lengkap**: Menjabarkan langkah instalasi backend Firebase (yang krusial untuk proyek ini) dan penanganan multi-role user.
 5. **Multi-Platform Ready**: Memasukkan instruksi deployment untuk semua 6 platform yang didukung Flutter.
+
+---
