@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152082398606",
+    "project_id": "manajemen-inventaris-apk",
+    "storage_bucket": "manajemen-inventaris-apk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152082398606:android:e0357cc7f7d897906478df",
+        "android_client_info": {
+          "package_name": "com.example.manajemen_inventaris"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu8eQENgPK7n0Knva3v2IEAq7ex9YWxEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
